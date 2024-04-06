@@ -10,7 +10,7 @@ This project uses Python Flask to serve a static web page with a `pixel.png` inc
 
 Provision a t2.micro Amazon EC2 instance on Ubuntu 20.04.
 
-💡 Make sure to generate or make note of the public/private key pair. A private key will be downloaded by default if you choose to generate one. Also ensure your security group (or cloud firewall) allows HTTP traffic (port 80).
+Make sure to generate or make note of the public/private key pair. A private key will be downloaded by default if you choose to generate one. Also ensure your security group (or cloud firewall) allows HTTP traffic (port 80).
 
 Take note of the Public EC2 DNS domain name.
 
